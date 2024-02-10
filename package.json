@@ -1,0 +1,14 @@
+{
+    "name": "my-project",
+    "private": true,
+    "version": "1.0.0",
+    "scripts": {
+        "start": "roc start",
+        "dev": "roc dev",
+        "build": "roc build"
+    },
+    "dependencies": {
+        "daisyui": "^4.4.7",
+        "roc-framework": "^2.0.1"
+    }
+}
