@@ -5,10 +5,10 @@ Ask someone to be your Valentine this year! Send them a link to this website and
 <details>
 	<summary>Screenshots</summary>
 
-	![screenshot_1](./screenshots/1.png)
-	![screenshot_2](./screenshots/2.png)
-	![screenshot_3](./screenshots/3.png)
-	![screenshot_4](./screenshots/4.png)
+	<img src="./screenshots/1.png" alt="screenshot_1" width="300"/>
+	<img src="./screenshots/2.png" alt="screenshot_2" width="300"/>
+	<img src="./screenshots/3.png" alt="screenshot_3" width="300"/>
+	<img src="./screenshots/4.png" alt="screenshot_4" width="300"/>
 </details>
 
 ## Self-hosting
